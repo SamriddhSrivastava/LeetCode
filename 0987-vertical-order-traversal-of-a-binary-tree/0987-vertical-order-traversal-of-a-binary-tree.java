@@ -14,18 +14,6 @@
  * }
  */
 class Solution {
-    class Pair
-    {
-    TreeNode node;
-    int v;
-    int l;
-     Pair(TreeNode n,int ver,int lev)
-     {
-        node=n;
-        v=ver;
-        l=lev;
-     }
-    }
     public List<List<Integer>> verticalTraversal(TreeNode root) 
     {
      TreeMap<Integer,TreeMap<Integer,PriorityQueue<Integer>>> nodes=new TreeMap<>();
@@ -59,5 +47,17 @@ class Solution {
         res.add(col);
      }
      return res;
-    }    
+    } 
+     class Pair
+    {
+    TreeNode node;
+    int v;
+    int l;
+     Pair(TreeNode n,int ver,int lev)
+     {
+        node=n;
+        v=ver;
+        l=lev;
+     }
+    }   
 }
