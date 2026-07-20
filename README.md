@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
