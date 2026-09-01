@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0057-insert-interval) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0860-lemonade-change) |
