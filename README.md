@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0057-insert-interval) |
+| [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0860-lemonade-change) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
