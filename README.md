@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0078-subsets) |
 | [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
