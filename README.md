@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -372,4 +373,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
