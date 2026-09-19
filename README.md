@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1927-sum-game) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
