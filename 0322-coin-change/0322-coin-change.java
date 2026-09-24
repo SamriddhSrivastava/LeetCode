@@ -7,8 +7,7 @@ class Solution {
         for(int ind=0;ind<coins.length;ind++)
         {
             int cur[]=new int[amount+1];
-            Arrays.fill(cur, Integer.MAX_VALUE);
-            cur[0] = 0;
+            
             for(int j=0;j<=amount;j++)
             {
                int npick=prev[j];
