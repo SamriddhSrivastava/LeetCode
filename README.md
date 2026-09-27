@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1927-sum-game) |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
