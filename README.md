@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
