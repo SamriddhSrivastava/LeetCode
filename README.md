@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0459-repeated-substring-pattern](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0044-wildcard-matching) |
 ## Quicksort
 |  |
 | ------- |
