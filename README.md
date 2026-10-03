@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
