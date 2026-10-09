@@ -9,31 +9,25 @@ class Solution {
         {
             for(int j=0;j<c;j++)
             {
-            if(visited[i][j]==0 && grid[i][j]=='1') 
+            if(grid[i][j]=='1') 
             {
                 p++;
-                dfs(i,j,grid,visited);
+                dfs(i,j,grid);
             }
             }
         }
         return p;
     }  
-    private void dfs(int r,int c,char[][] grid,int[][] visited) 
+    private void dfs(int i,int j,char[][] grid) 
     {
-        visited[r][c]=1;
-        int m=grid.length;
-        int n=grid[0].length;
-        for(int i=-1;i<=1;i++) 
-        {
-            for(int j=-1;j<=1;j++)
-            {
-                int cr=r+i,cc=c+j;
-            if((i==0 || j==0) && (i!=0 || j!=0) && cr>=0 && cr<m && cc>=0 && cc<n && visited[cr][cc]==0 && grid[cr][cc]=='1') 
-            {
-                dfs(cr,cc,grid,visited);
-            }
-            }
-        }
+       if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]=='0')
+        return;
+
+        grid[i][j]='0';
+        dfs(i+1,j,grid);
+        dfs(i-1,j,grid);
+        dfs(i,j+1,grid);
+        dfs(i,j-1,grid);
 
     }
 }
