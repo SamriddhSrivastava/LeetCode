@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0322-coin-change) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
