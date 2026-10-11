@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
