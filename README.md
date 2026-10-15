@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1048-longest-string-chain) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -528,10 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SamriddhSrivastava/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamriddhSrivastava/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bracket Sequences
 |  |
 | ------- |
