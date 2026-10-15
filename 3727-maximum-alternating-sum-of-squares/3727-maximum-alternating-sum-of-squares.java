@@ -5,13 +5,10 @@ class Solution {
      nums[i]*=nums[i];
      Arrays.sort(nums);
      long score=0;
-     for(int i=nums.length-1;i>=0;i--)
-     {
-        if(i<nums.length/2)
+     for(int i=nums.length-1;i>=nums.length/2;i--)
+       score+=nums[i]; 
+     for(int i=nums.length/2-1;i>=0;i--)
         score-=nums[i];
-        else
-        score+=nums[i];
-     } 
      return score;  
     }
 }
