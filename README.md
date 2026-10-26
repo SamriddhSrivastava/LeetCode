@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/SamriddhSrivastava/LeetCode/tree/master/1873-calculate-special-bonus) |
